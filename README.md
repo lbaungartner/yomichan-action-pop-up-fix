@@ -2,6 +2,8 @@
 
 This is a very simple fix to the width and padding of the action pop-up menu. It was not being displayed properly, so I added two new lines to the CSS file and that was it.
 
+I'm doing this on my own GitHub because the original project is on read-only mode. Either way, the credit goes entirely to the author.
+
 ---
 
 # Yomichan
